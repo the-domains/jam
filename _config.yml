@@ -1,7 +1,7 @@
 name: Jam
 favicon: null
-layout_spectrum: 0.04046042379923165
-typography_spectrum: 0.1668471226003021
+layout_spectrum: 0
+typography_spectrum: 0.19071
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6712806983850896
-  lightness: 0.3442550248000771
-  saturation: 0.7321061524562538
-  rhythmicContrast: 0.785604166565463
+    - '#632c50'
+    - '#000000'
+    - '#400040'
+    - '#660033'
+    - '#800000'
+  brandStrength: 0.75
+  lightness: 0.4375
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
