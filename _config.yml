@@ -1,20 +1,4 @@
-name: Jam
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.19071
-title: figmints thoughtstream
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#632c50'
@@ -26,4 +10,20 @@ color:
   lightness: 0.4375
   saturation: 0.6875
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Jam
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: figmints thoughtstream
 purpose: []
